@@ -12,7 +12,7 @@ const Inputs = ( props ) => {
         {/* (2) The second responsibility of Input.js is to have three separate inputs: one for name, one for age, and one for hobbies
         I imported a Form from Reactstrap to quickly grab something visually pleasing */}
         <Form>
-
+            
             {/* (2.1) This FormGroup will hold my first input for our name property. */}
             <FormGroup>
                 <Label for='name'>Name:</Label>
