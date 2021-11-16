@@ -7,6 +7,8 @@ const Inputs = ( props ) => {
 
     return (
     <div>
+        <h4>The form from our Inputs.js file:</h4>
+        <br/>
         {/* (2) The second responsibility of Input.js is to have three separate inputs: one for name, one for age, and one for hobbies
         I imported a Form from Reactstrap to quickly grab something visually pleasing */}
         <Form>
